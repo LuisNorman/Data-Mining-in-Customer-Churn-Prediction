@@ -3,7 +3,7 @@ Data mining in customer churn prediction can be vital to a company's success. In
 
 In tableau, I applied data mining to this company's dataset to analyze who and/or why customer's are leaving - a very important insight for businesses. Tableau was used for it's illustrative and easy to understand graphs.
 
-# System Requirements
+# Requirements
 1. Tableau 
 
 
