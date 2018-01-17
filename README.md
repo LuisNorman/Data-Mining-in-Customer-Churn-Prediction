@@ -6,3 +6,6 @@ In tableau, I applied data mining to this company's dataset to analyze who and/o
 
 # How to Run
 To get started, download the dataset file, Churn-Modeling.xlsx and tableu workbook, Data Mining - Customer Churn. From there, you will see illustrative visualizations of feature comparisons in respect to customer's exiting or not. By analyzing the charts/graphs you can now make assumptions of possible reason that cause customer churn.
+
+# Inspiration
+Inspired by: Kirill Eremenko
